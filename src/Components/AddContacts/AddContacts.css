@@ -1,0 +1,18 @@
+.AddContactsBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 300px;
+  height: 300px;
+}
+
+.AddContactsBox input {
+  font-size: 30px;
+  color: coral;
+  border-radius: 5px;
+}
+
+.AddContactsBox button {
+  font-size: 24px;
+  border-radius: 5px;
+}
